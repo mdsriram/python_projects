@@ -61,8 +61,3 @@ Open a terminal or command prompt and navigate to the directory where the script
 
    ```bash
    python quiz_game.py
-
-
-# License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
