@@ -66,7 +66,7 @@ In this game, you play against the computer. You can choose between Rock, Paper,
    - paper
    - scissors
 - Quit the Game: Type Q to quit the game at any time.
-- 
+  
 ## Game Rules
 - Rock beats Scissors (Rock crushes scissors)
 - Paper beats Rock (Paper covers rock)
