@@ -55,9 +55,28 @@ Welcome to the Computer Quiz Game! This is a simple command-line quiz game desig
 - Provides feedback on correct and incorrect answers.
 - Displays your final score and percentage.
 
-## Run the Quiz Game
 
-Open a terminal or command prompt and navigate to the directory where the script is located. Then execute the script using Python:
+# Rock Paper Scissors Game
+In this game, you play against the computer. You can choose between Rock, Paper, or Scissors. The computer will make a random choice, and the game will determine the winner based on the classic rules.
 
-   ```bash
-   python quiz_game.py
+## How to Play
+- Run the Game: Execute the script using Python.
+- Make a Choice: Type one of the following choices:
+   - rock
+   - paper
+   - scissors
+- Quit the Game: Type Q to quit the game at any time.
+- 
+## Game Rules
+- Rock beats Scissors (Rock crushes scissors)
+- Paper beats Rock (Paper covers rock)
+- Scissors beats Paper (Scissors cuts paper)
+  
+## Features
+Dynamic Choices: Easily customizable for different choices and rules.
+Score Tracking: Keeps track of the number of wins for both the user and the computer.
+Simple Instructions: Provides clear prompts and feedback for each choice.
+
+## Run the Script:
+```bash
+python rock_paper_scissors.py
