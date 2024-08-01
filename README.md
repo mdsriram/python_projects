@@ -44,6 +44,25 @@ You got it in 7 guesses
 - The game does not handle non-numeric input errors beyond basic checks.
 - The upper limit must be a positive integer.
 
+# Computer Quiz Game
+
+Welcome to the Computer Quiz Game! This is a simple command-line quiz game designed to test your knowledge about computer-related topics.
+
+## Features
+
+- Multiple-choice questions about computers.
+- Keeps track of your score.
+- Provides feedback on correct and incorrect answers.
+- Displays your final score and percentage.
+
+## Run the Quiz Game
+
+Open a terminal or command prompt and navigate to the directory where the script is located. Then execute the script using Python:
+
+   ```bash
+   python quiz_game.py
+
+
 ## License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
