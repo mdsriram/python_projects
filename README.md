@@ -63,6 +63,6 @@ Open a terminal or command prompt and navigate to the directory where the script
    python quiz_game.py
 
 
-## License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
